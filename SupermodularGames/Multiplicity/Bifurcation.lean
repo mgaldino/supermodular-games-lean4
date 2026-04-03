@@ -21,7 +21,6 @@
 
   References:
   - Brock & Durlauf (2001), "Discrete choice with social interactions"
-  - Guimarães & Machado (2025), "Digital currencies and club formation"
 
   Papers served: DC Estático (P4), Strategic Ratification (λ > 0)
 -/

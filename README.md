@@ -128,7 +128,7 @@ def my_BR : α →o α := ...
 - Topkis, D. M. (1978). Minimizing a submodular function on a lattice. *Operations Research*, 26(2), 305-321.
 - Milgrom, P. & Roberts, J. (1990). Rationalizability, learning, and equilibrium in games with strategic complementarities. *Econometrica*, 58(6), 1255-1277.
 - Vives, X. (1990). Nash equilibrium with strategic complementarities. *Journal of Mathematical Economics*, 19(3), 305-321.
-- Morris, S. & Shin, H. S. (2003). Global games: Theory and applications. In *Advances in Economics and Econometrics*. Cambridge University Press.
+- Morris, S. & Shin, H. S. (2003). Global games: Theory and applications. In M. Dewatripont, L. P. Hansen, & S. J. Turnovsky (Eds.), *Advances in Economics and Econometrics: Theory and Applications, Eighth World Congress, Volume 1* (pp. 56-114). Cambridge University Press.
 - Brock, W. A. & Durlauf, S. N. (2001). Discrete choice with social interactions. *Review of Economic Studies*, 68(2), 235-260.
 
 ## License
